@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class Calc extends AdvCal {
 
     public static void main(String[] args) {
-        // Calc obj = new Calc();
         Scanner sc = new Scanner(System.in);
         // System.out.println("1. Add\n2. Subtract\n3. Multiply\n4. Divide");
         // System.out.print("Choose1 Operation: ");
